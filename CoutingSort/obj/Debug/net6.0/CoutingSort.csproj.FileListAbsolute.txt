@@ -1,0 +1,15 @@
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.exe
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.deps.json
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.runtimeconfig.json
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.dll
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.pdb
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.csproj.AssemblyReference.cache
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.AssemblyInfoInputs.cache
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.AssemblyInfo.cs
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.csproj.CoreCompileInputs.cache
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.dll
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\refint\CoutingSort.dll
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.pdb
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.genruntimeconfig.cache
+C:\Users\tulya\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\ref\CoutingSort.dll
